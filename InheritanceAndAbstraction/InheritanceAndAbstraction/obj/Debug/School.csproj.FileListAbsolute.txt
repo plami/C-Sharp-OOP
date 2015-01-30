@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.exe
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\InheritanceAndAbstraction\bin\Debug\InheritanceAndAbstraction.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\InheritanceAndAbstraction\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\InheritanceAndAbstraction\obj\Debug\InheritanceAndAbstraction.exe
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\InheritanceAndAbstraction\obj\Debug\InheritanceAndAbstraction.pdb

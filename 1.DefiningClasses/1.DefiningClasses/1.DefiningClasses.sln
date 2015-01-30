@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "1.DefiningClasses\Person.csproj", "{4ED27D51-A724-408C-B0DE-26B1F350ECE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaptopShop", "LaptopShop\LaptopShop.csproj", "{0A249488-2DEA-4A83-99C4-9FC0A9947E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCCatalog", "PCCatalog\PCCatalog.csproj", "{05ABF85F-13D0-4FD8-B04E-F9F9D95BCAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED27D51-A724-408C-B0DE-26B1F350ECE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED27D51-A724-408C-B0DE-26B1F350ECE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED27D51-A724-408C-B0DE-26B1F350ECE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED27D51-A724-408C-B0DE-26B1F350ECE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A249488-2DEA-4A83-99C4-9FC0A9947E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A249488-2DEA-4A83-99C4-9FC0A9947E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A249488-2DEA-4A83-99C4-9FC0A9947E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A249488-2DEA-4A83-99C4-9FC0A9947E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05ABF85F-13D0-4FD8-B04E-F9F9D95BCAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05ABF85F-13D0-4FD8-B04E-F9F9D95BCAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05ABF85F-13D0-4FD8-B04E-F9F9D95BCAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05ABF85F-13D0-4FD8-B04E-F9F9D95BCAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

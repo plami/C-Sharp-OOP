@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\StaticMembersAndNamespaces.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\StaticMembersAndNamespaces\bin\Debug\StaticMembersAndNamespaces.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\StaticMembersAndNamespaces\obj\Debug\Point3D.csprojResolveAssemblyReference.cache

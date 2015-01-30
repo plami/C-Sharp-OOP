@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\ExceptionHandling\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

@@ -1,0 +1,10 @@
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\Paths.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\DistanceCalculator.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\StaticMembersAndNamespaces.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\DistanceCalculator.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\bin\Debug\StaticMembersAndNamespaces.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\Paths\obj\Debug\Paths.pdb

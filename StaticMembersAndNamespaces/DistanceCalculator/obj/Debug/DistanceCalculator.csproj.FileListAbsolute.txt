@@ -1,0 +1,5 @@
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\Users\plamena\Desktop\OOP\homeworks\StaticMembersAndNamespaces\DistanceCalculator\obj\Debug\DistanceCalculator.pdb

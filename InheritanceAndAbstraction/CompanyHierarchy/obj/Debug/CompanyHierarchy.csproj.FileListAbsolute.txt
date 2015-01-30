@@ -1,0 +1,5 @@
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\plamena\Desktop\OOP\homeworks\InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb

@@ -1,0 +1,9 @@
+c:\users\plamena\documents\visual studio 2012\Projects\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.exe.config
+c:\users\plamena\documents\visual studio 2012\Projects\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.exe
+c:\users\plamena\documents\visual studio 2012\Projects\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.pdb
+c:\users\plamena\documents\visual studio 2012\Projects\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.Person.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2012\Projects\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.exe
+c:\users\plamena\documents\visual studio 2012\Projects\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\1.DefiningClasses\1.DefiningClasses\1.DefiningClasses\bin\Debug\1.DefiningClasses.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\1.DefiningClasses\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.exe
+C:\Users\plamena\Desktop\OOP\homeworks\1.DefiningClasses\1.DefiningClasses\1.DefiningClasses\obj\Debug\1.DefiningClasses.pdb

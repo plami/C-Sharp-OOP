@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.exe
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\EnterNumbers\bin\Debug\EnterNumbers.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.exe
+C:\Users\plamena\Desktop\OOP\homeworks\ExceptionHandling\EnterNumbers\obj\Debug\EnterNumbers.pdb
