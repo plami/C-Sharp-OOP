@@ -1,0 +1,1 @@
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\EncapsulationAndPolymorphism\bin\Debug\EncapsulationAndPolymorphism.exe.config

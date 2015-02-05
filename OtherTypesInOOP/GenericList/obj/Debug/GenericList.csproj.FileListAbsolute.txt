@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GenericList\bin\Debug\GenericList.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GenericList\bin\Debug\GenericList.exe
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GenericList\bin\Debug\GenericList.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GenericList\obj\Debug\GenericList.exe
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GenericList\obj\Debug\GenericList.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GenericList\obj\Debug\GenericList.csprojResolveAssemblyReference.cache

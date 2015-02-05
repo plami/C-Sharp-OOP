@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.exe
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\BankOfKurtovoKonare\bin\Debug\BankOfKurtovoKonare.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.exe
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\BankOfKurtovoKonare\obj\Debug\BankOfKurtovoKonare.pdb

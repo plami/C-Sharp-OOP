@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.exe
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\Shapes\bin\Debug\Shapes.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.exe
+C:\Users\plamena\Desktop\OOP\homeworks\EncapsulationAndPolymorphism\Shapes\obj\Debug\Shapes.pdb

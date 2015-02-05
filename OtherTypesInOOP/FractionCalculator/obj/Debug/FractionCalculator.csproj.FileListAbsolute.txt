@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.exe
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\FractionCalculator\bin\Debug\FractionCalculator.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.exe
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\FractionCalculator\obj\Debug\FractionCalculator.pdb

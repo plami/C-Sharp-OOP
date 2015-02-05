@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GalacticGPS\bin\Debug\GalacticGPS.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GalacticGPS\bin\Debug\GalacticGPS.exe
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GalacticGPS\bin\Debug\GalacticGPS.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GalacticGPS\obj\Debug\GalacticGPS.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GalacticGPS\obj\Debug\GalacticGPS.exe
+C:\Users\plamena\Desktop\OOP\homeworks\OtherTypesInOOP\GalacticGPS\obj\Debug\GalacticGPS.pdb
