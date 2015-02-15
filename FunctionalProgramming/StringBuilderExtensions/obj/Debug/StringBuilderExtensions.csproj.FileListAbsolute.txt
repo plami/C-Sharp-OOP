@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe.config
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.pdb
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.exe
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.exe
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.exe
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\StringBuilderExtensions\bin\Debug\StringBuilderExtensions.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\StringBuilderExtensions\obj\Debug\StringBuilderExtensions.csprojResolveAssemblyReference.cache

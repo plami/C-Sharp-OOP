@@ -1,0 +1,5 @@
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\StringDisperser\bin\Debug\StringDisperser.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\StringDisperser\bin\Debug\StringDisperser.exe
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\StringDisperser\bin\Debug\StringDisperser.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\StringDisperser\obj\Debug\StringDisperser.exe
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\StringDisperser\obj\Debug\StringDisperser.pdb

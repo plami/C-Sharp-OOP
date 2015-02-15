@@ -1,0 +1,6 @@
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\Customer\bin\Debug\Customer.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\Customer\bin\Debug\Customer.exe
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\Customer\bin\Debug\Customer.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\Customer\obj\Debug\Customer.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\Customer\obj\Debug\Customer.exe
+C:\Users\plamena\Desktop\OOP\homeworks\CommonTypeSystem\Customer\obj\Debug\Customer.pdb

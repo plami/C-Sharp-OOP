@@ -1,0 +1,12 @@
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe.config
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.pdb
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.exe
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.exe
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.exe
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\CustomLINQExtensionMethods\bin\Debug\CustomLINQExtensionMethods.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\CustomLINQExtensionMethods\obj\Debug\CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache

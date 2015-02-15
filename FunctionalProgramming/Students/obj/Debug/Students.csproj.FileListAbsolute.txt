@@ -1,0 +1,9 @@
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\Students\bin\Debug\Students.exe.config
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\Students\bin\Debug\Students.exe
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\Students\bin\Debug\Students.pdb
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\Students\obj\Debug\Students.exe
+c:\users\plamena\documents\visual studio 2012\Projects\FunctionalProgramming\Students\obj\Debug\Students.pdb
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\Students\bin\Debug\Students.exe.config
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\Students\obj\Debug\Students.exe
+C:\Users\plamena\Desktop\OOP\homeworks\FunctionalProgramming\Students\obj\Debug\Students.pdb
