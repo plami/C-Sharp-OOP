@@ -1,0 +1,7 @@
+C:\Documents\Exams\9. OOP-March-2015\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe.config
+C:\Users\plamena\Desktop\OOP\exam\Problem-1-Console-Forum\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe.config
+C:\Users\plamena\Desktop\OOP\exam\Problem-1-Console-Forum\Console-Forum-Skeleton\obj\Debug\ConsoleForum.csprojResolveAssemblyReference.cache
+C:\Users\plamena\Desktop\OOP\exam\Problem-1-Console-Forum\Console-Forum-Skeleton\bin\Debug\ConsoleForum.exe
+C:\Users\plamena\Desktop\OOP\exam\Problem-1-Console-Forum\Console-Forum-Skeleton\bin\Debug\ConsoleForum.pdb
+C:\Users\plamena\Desktop\OOP\exam\Problem-1-Console-Forum\Console-Forum-Skeleton\obj\Debug\ConsoleForum.exe
+C:\Users\plamena\Desktop\OOP\exam\Problem-1-Console-Forum\Console-Forum-Skeleton\obj\Debug\ConsoleForum.pdb
